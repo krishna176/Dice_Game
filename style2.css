@@ -1,0 +1,29 @@
+body {
+    background-color: #5c94ee;
+  }
+.container
+{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 8px 0 #e056c9;
+    font-size: 8rem;
+    color: #3e5029;
+}
+p{
+    font-size: 3rem;
+    color: #e2e2f0;
+    font-family:'Times New Roman', Times, serif;
+}
+img{
+    width: 80%;
+}
